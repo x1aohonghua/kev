@@ -20,6 +20,9 @@ runs/logs/*
 # os
 .DS_Store
 
+# ide
+.idea/
+
 # research results: keep reports and comparisons, not raw prediction dumps
 !runs/research-kev-v01/
 runs/research-kev-v01/*
